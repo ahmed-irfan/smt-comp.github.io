@@ -17,10 +17,10 @@
         "Stéphane Graham-Lengrand <stephane.graham-lengrand@sri.com>"
     ],
     "archive": {
-        "url": "https://ahmed-irfan.github.io/smtcomp/yices2-smtcomp-2026.zip"
+        "url": "https://zenodo.org/records/20639538/files/yices2-smtcomp-2026.zip?download=1"
     },
     "website": "https://yices.csl.sri.com",
-    "system_description": "https://ahmed-irfan.github.io/smtcomp/yices2-smtcomp-2026.pdf",
+    "system_description": "https://www.csl.sri.com/users/sgl/Work/Reports/2026-yices2.pdf",
     "solver_type": "Standalone",
     "participations": [
         {
